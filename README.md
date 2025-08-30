@@ -30,5 +30,5 @@ To steer clear, we can easily download YouTube videos using **pytube** from a Py
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/youtube-downloader.git
+   git clone https://github.com/lohithready/SafeTube
    cd youtube-downloader
